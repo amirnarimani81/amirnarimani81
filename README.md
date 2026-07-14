@@ -81,10 +81,7 @@ Energy forecasting system using ARIMA, SARIMA, Prophet, and SQL-based analytics 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirnarimani&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnarimani&layout=compact&theme=dark&hide_border=true" width="48%" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirnarimani&theme=dark&hide_border=true" width="60%" />
